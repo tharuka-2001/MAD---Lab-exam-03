@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="taskInput" type="id">taskInput</item>
+    <item name="btnPickDate" type="id">btnPickDate</item>
+    <item name="btnPickTime" type="id">btnPickTime</item>
+    <item name="btnAddUpdate" type="id">btnAddUpdate</item>
+    <item name="taskList" type="id">taskList</item>
+</resources>
